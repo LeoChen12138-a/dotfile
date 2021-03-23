@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "fa39be0f94359cb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d3377a4ac6128e7",
+        "type": "split",
+        "children": [
+          {
+            "id": "befa0fdb04043422",
+            "type": "leaf",
+            "dimension": 64.74820143884892,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/Dotfile/dotfile.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "9edc6a6e6fe4ef92",
+            "type": "leaf",
+            "dimension": 35.25179856115108,
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/Dotfile/outline.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76e5b223210d6a2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e01a46e829174132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53ce0c513eaf434f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe24d869ca06e6cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "obsidian",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7165bfcfeb2598c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e55f3cc99f0968e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "989365a3a827e536",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cef44938921f3b12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Note/Dotfile/outline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f04f4feee6219b0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65e612e6e409d4cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Note/Dotfile/outline.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Note/Dotfile/outline.md",
+    "Note/Dotfile/dotfile.md",
+    "Note/Dotfile/Untitled.md",
+    "Untitled.md",
+    "Note/Vue/Untitled.md",
+    "Note/Vue/Vue_Toc.md",
+    "Note/Vue/Vue电商.md",
+    "Note/Resume/attachements/简历模板.jpg",
+    "Note/Resume/Outline.md",
+    "Note/Interview/金三银四.md"
+  ]
+}

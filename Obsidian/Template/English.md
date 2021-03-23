@@ -1,0 +1,30 @@
+## English
+- [ ] Vocabulary(1~1.5h)
+	- [ ]  TOEFL(20')  200'
+	- [ ]  CET 4~6(20')  200‘
+	- [ ] Abbr(20')
+		- [ ] Website
+		- [ ] Collect
+- [ ] Listen (0.5~1h)
+	- [ ] Eonomist(5')	1
+	- [ ] Science 60s(3')	4
+	- [ ] TED(15')	1
+	- [ ] BBC(3')	1
+	- [ ] VOA(3') 	1
+	- [ ] Two Minute Papers(4') 2
+- [ ] Read(1~1.5h)
+	- [ ] Dictionary(1h)
+		- [ ] The Compact Visual Dictionary 高级英语百科图解词典-外语教学与研究出版社(30')
+		- [ ] Longman English Grammar 朗曼英语语法-L G 亚历山大(30')
+		- [ ] How to Use Them to Decipher English Derivatives 英语词缀与英语派生词-李平武(30')
+		- [ ] English Roots And How to use Them to Decipher Their Derivative 英语词根与单词的说文解字-李平武(30')
+	- [ ] Write(0.5h)
+		- [ ] 命题人作文模板
+- [ ] Test(3h)
+	- [ ] 2003(2h~2.5h)
+		- [ ] Write(1~1.5h)
+		- [ ] Correct(30')
+- [ ] Compositions(30')
+	- [ ] Grammarly(20')
+		- [ ] 1
+	- [ ] Correct(10')
